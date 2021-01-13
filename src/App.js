@@ -11,8 +11,8 @@ class App extends Component {
       subject:{title:'WEB', sub:'World Wide Web!'},
       contents:[
         {id:1, title:'HTML', desc:'HTML is ...'},
-        {id:1, title:'HTML', desc:'HTML is ...'},
-        {id:1, title:'HTML', desc:'HTML is ...'}
+        {id:2, title:'CSS', desc:'CSS is ...'},
+        {id:3, title:'JavaScript', desc:'JavaScript is ...'}
       ]
     }
   }
