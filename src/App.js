@@ -28,7 +28,7 @@ class App extends Component {
       var i = 0;
       while(i < this.state.contents.length){
         var data = this.state.contents[i];
-        if(data.id === this.staye.selected_content_id){
+        if(data.id === this.state.selected_content_id){
           _title = data.title;
           _desc = data.desc;
           break;
